@@ -1,3 +1,5 @@
 PKGBUILD
 src/
 pkg/
+output.py
+depends.txt
